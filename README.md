@@ -1,10 +1,5 @@
 # hybrid-retail-data-platform
 
----
-
-```markdown
-# Hybrid Retail Sales Analytics Platform
-
 <p align="center">
   <img src="images/project-banner.png" width="100%">
 </p>
